@@ -64,10 +64,14 @@
             color: #444444;
         }
         
-        .dropdown .dropdown-item:hover {
+/*         .dropdown .dropdown-item:hover {
             color: white;
             background-color: #cc1616;
-        }
+        } */
+           .dropdown .dropdown-item {
+                color: black;
+                background-color: #cc1616;
+            }
         
         .fa-chevron-down {
             color: white;
