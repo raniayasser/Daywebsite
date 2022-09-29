@@ -63,10 +63,18 @@
         .dropdown .dropdown-item {
             color: #444444;
         }
-        
-        .dropdown .dropdown-item:hover {
+        /* .dropdown .dropdown-item:hover {
             color: white;
             background-color: #cc1616;
+        } */
+        
+        .dropdown .dropdown-item {
+            color: black;
+            background-color: #cc1616;
+        }
+        
+        #navbarSupportedContent ul {
+            background-color: #191919;
         }
         
         .fa-chevron-down {
@@ -265,7 +273,7 @@
             color: #fff;
             transition: 0.3s;
             border-radius: 4;
-            width: 150px;
+            width: 115px;
             height: 34px;
             font-family: "Raleway", sans-serif;
         }
